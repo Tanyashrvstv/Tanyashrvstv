@@ -32,10 +32,11 @@
 
 - **Tech Stack**:
     
-    ![Java](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
+    ![Java](https://img.shields.io/badge/Java%20-%232370ED.svg?style=for-the-badge&logo=Java&logoColor=white)
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+    ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+    ![VAPT](https://img.shields.io/badge/VAPT%20-%232370ED.svg?style=for-the-badge&logo=VAPT&logoColor=white)	
     
     
 
@@ -44,8 +45,11 @@
 <br>
 
 - **Softwares and Tools**:
-
-       
+	
+    
+    ![Gerrit](https://img.shields.io/badge/Gerrit-EEEEEE.svg?style=for-the-badge&logo=Gerrit&logoColor=black)	
+    ![WireShark](https://img.shields.io/badge/Wireshark-1679A7.svg?style=for-the-badge&logo=Wireshark&logoColor=white)
+    ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)   
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 <br>
@@ -78,8 +82,16 @@
 <ul>
 
 <li>
+<a href="https://tryhackme.com/p/tanyashrvstv" target="_blank">
+<img src="https://img.shields.io/badge/TryHackMe-212C42.svg?style=for-the-badge&logo=TryHackMe&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
+</a>
+</li>
+
+<br>
+	
+<li>
 <a href="https://www.linkedin.com/in/tanyashrivastava33/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:%20%20Tanya-Shrivastava%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
@@ -87,7 +99,7 @@
 
 <li>
 <a href="https://twitter.com/" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  Tanya-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
 </a>
 </li>
 
@@ -95,7 +107,7 @@
 
 <li>
 <a href="mailto:tanyashrvstv@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  TANYA-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 
